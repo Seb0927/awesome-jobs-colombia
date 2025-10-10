@@ -45,7 +45,7 @@ Por favor, asegúrate de que tu pull request cumpla con las siguientes directric
 4. Ejecuta `npx awesome-lint` para verificar el formato
 5. Confirma tus cambios (`git commit -am 'agregar <nombre empresa>'`)
 6. Envía tu rama (`git push origin agregar-nueva-empresa`)
-7. Abre un Pull Request
+7. Abre un Pull Request con el título `"Agregar <nombre empresa>"`
 
 ## Actualizar un Pull Request
 
