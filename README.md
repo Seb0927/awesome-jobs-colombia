@@ -68,5 +68,3 @@ Una lista curada de empresas de tecnología para programadores en Colombia
 [![Licencia: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 Este trabajo está licenciado bajo una [Licencia Creative Commons Atribución-NoComercial 4.0 Internacional](https://creativecommons.org/licenses/by-nc/4.0/).
-
-docs: add Accenture, EPAM, and GFT Technologies entries with location details
