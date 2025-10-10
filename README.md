@@ -48,6 +48,7 @@ Una lista curada de empresas de tecnología para programadores en Colombia
 > Empresas fundadas en Colombia o multinacionales con oficinas locales que emplean talento tech en el país.
 
 - [Addi](https://co.addi.com/trabaja-con-nosotros) - 🇨🇴 [Nacional] - 🏙️ [Bogotá]
+- [Ansira](https://ansira.com/about/careers/) - 🇨🇴 [Nacional]
 - [Genius Sports](https://www.linkedin.com/jobs/genius-sports-empleos?originalSubdomain=co)
 - [Instaleap](https://instaleap.na.teamtailor.com/#jobs) - 🏙️ [Bogotá]
 - [Komet Sales](https://www.kometsales.com/pages/careers) - 🇨🇴 [Nacional] - 🏙️ [Medellín]
