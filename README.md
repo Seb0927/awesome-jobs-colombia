@@ -49,7 +49,7 @@ Una lista curada de empresas de tecnología para programadores en Colombia
 
 - [Addi](https://co.addi.com/trabaja-con-nosotros) - 🇨🇴 [Nacional] - 🏙️ [Bogotá]
 - [Ansira](https://ansira.com/about/careers/) - 🇨🇴 [Nacional]
-- [Genius Sports](https://www.linkedin.com/jobs/genius-sports-empleos?originalSubdomain=co)
+- [Genius Sports](https://www.linkedin.com/jobs/genius-sports-empleos?originalSubdomain=co) - 🇨🇴 [Nacional]
 - [Instaleap](https://instaleap.na.teamtailor.com/#jobs) - 🏙️ [Bogotá]
 - [Komet Sales](https://www.kometsales.com/pages/careers) - 🇨🇴 [Nacional] - 🏙️ [Medellín]
 - [Mercado Libre](https://careers-meli.mercadolibre.com/) - 🇨🇴 [Nacional] - 🏙️ [Bogotá, Cali, Medellín]
