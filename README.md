@@ -12,7 +12,8 @@ Una lista curada de empresas que ofrecen oportunidades laborales para desarrolla
 
 ## Nearshores / Outsourcing
 
-> Empresas que ofrecen servicios de desarrollo de software para clientes nacionales y/o internacionales desde Colombia
+Empresas que ofrecen servicios de desarrollo de software para clientes nacionales y/o internacionales desde Colombia
+
 > 🌎 [LATAM] - 🇨🇴 [Nacional] - 🏙️ [Ciudad específica]
 
 - [10Pearls](https://10pearls.com/latin-america-job-openings/) - 🌎 [LATAM]
@@ -49,7 +50,7 @@ Una lista curada de empresas que ofrecen oportunidades laborales para desarrolla
 
 ## Empresas
 
-> Empresas de producto y tecnología con presencia en Colombia que ofrecen oportunidades para desarrolladores.
+Empresas de producto y tecnología con presencia en Colombia que ofrecen oportunidades para desarrolladores.
 
 - [Addi](https://co.addi.com/trabaja-con-nosotros) - 🇨🇴 [Nacional] - 🏙️ [Bogotá]
 - [Ansira](https://ansira.com/about/careers/) - 🇨🇴 [Nacional]
