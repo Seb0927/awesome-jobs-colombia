@@ -1,11 +1,14 @@
-# Awesome Jobs Colombia [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Jobs Colombia [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Una lista curada de empresas que ofrecen oportunidades laborales para desarrolladores en Colombia.
 
 ## Contenido
 
+<!-- Explicación: El título debería ser "Contents" para ser ignorado por la herramienta awesome-lint, pero debido a que esta es una lista en español se ignora manualmente -->
+<!-- lint disable awesome-list-item -->
 - [Nearshores / Outsourcing](#nearshores--outsourcing)
 - [Empresas nacionales](#empresas-nacionales)
+<!-- lint disable awesome-list-item -->
 
 ## Nearshores / Outsourcing
 
@@ -67,5 +70,3 @@ Una lista curada de empresas que ofrecen oportunidades laborales para desarrolla
 ## Licencia
 
 [![Licencia: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
-
-Este trabajo está licenciado bajo una [Licencia Creative Commons Atribución-NoComercial 4.0 Internacional](https://creativecommons.org/licenses/by-nc/4.0/).docs: actualizar descripción y contenido del README.md
