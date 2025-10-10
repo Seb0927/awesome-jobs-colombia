@@ -15,9 +15,9 @@ Una lista curada de empresas que ofrecen oportunidades laborales para desarrolla
 Empresas que ofrecen servicios de desarrollo de software para clientes nacionales y/o internacionales desde Colombia
 
 > [!NOTE]
-> - *(LATAM)*: La empresa ofrece posiciones remotas para desarrolladores en lationamérica
-> - *(Colombia)*: La empresa ofrece posiciones remotas y/o posiciones en mas de cinco ciudades de Colombia
-> - *(\<Ciudad\>)*: La empresa ofrece oportunidades laborales para una ciudad determinada
+> - *`(LATAM)`*: La empresa ofrece posiciones remotas para desarrolladores en lationamérica
+> - *`(Colombia)`*: La empresa ofrece posiciones remotas y/o posiciones en mas de cinco ciudades de Colombia
+> - *`(<Ciudad>)`*: La empresa ofrece oportunidades laborales para una ciudad determinada
 
 - [10Pearls](https://10pearls.com/latin-america-job-openings/) - *(LATAM)*
 - [Accenture](https://www.accenture.com/co-es/careers/jobsearch) - *(Colombia) / (Barranquilla, Bogotá, Medellín)*
@@ -56,8 +56,8 @@ Empresas que ofrecen servicios de desarrollo de software para clientes nacionale
 Empresas de producto y tecnología con presencia en Colombia que ofrecen oportunidades para desarrolladores.
 
 > [!NOTE]
-> - *(Colombia)*: La empresa ofrece posiciones remotas y/o posiciones en mas de cinco ciudades de Colombia
-> - *(\<Ciudad\>)*: La empresa ofrece oportunidades laborales para una ciudad determinada
+> - *`(Colombia)`*: La empresa ofrece posiciones remotas y/o posiciones en mas de cinco ciudades de Colombia
+> - *`(<Ciudad>)`*: La empresa ofrece oportunidades laborales para una ciudad determinada
 
 - [Addi](https://co.addi.com/trabaja-con-nosotros) - *(Colombia) - (Bogotá)*
 - [Ansira](https://ansira.com/about/careers/) - *(Colombia)*
