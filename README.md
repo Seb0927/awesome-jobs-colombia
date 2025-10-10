@@ -1,14 +1,15 @@
 # Awesome Jobs Colombia [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Una lista curada de empresas de tecnología para programadores en Colombia
+Una lista curada de empresas que ofrecen oportunidades laborales para desarrolladores en Colombia.
 
-## Tabla de contenido
+## Contenido
 
 - [Nearshores / Outsourcing](#nearshores--outsourcing)
 - [Empresas nacionales](#empresas-nacionales)
 
 ## Nearshores / Outsourcing
 
+> Empresas que ofrecen servicios de desarrollo de software para clientes nacionales y/o internacionales desde Colombia
 > 🌎 [LATAM] - 🇨🇴 [Nacional] - 🏙️ [Ciudad específica]
 
 - [10Pearls](https://10pearls.com/latin-america-job-openings/) - 🌎 [LATAM]
@@ -45,7 +46,7 @@ Una lista curada de empresas de tecnología para programadores en Colombia
 
 ## Empresas
 
-> Empresas fundadas en Colombia o multinacionales con oficinas locales que emplean talento tech en el país.
+> Empresas de producto y tecnología con presencia en Colombia que ofrecen oportunidades para desarrolladores.
 
 - [Addi](https://co.addi.com/trabaja-con-nosotros) - 🇨🇴 [Nacional] - 🏙️ [Bogotá]
 - [Ansira](https://ansira.com/about/careers/) - 🇨🇴 [Nacional]
@@ -56,7 +57,7 @@ Una lista curada de empresas de tecnología para programadores en Colombia
 - [Qrvey](https://qrvey.com/careers/) - 🇨🇴 [Nacional]
 - [Rappi](https://rappi.wd12.myworkdayjobs.com/es/Rappi_jobs?locations=35c273db87bf100033a5103c577a0000) - 🏙️ [Bogotá]
 - [Sana Commerce](https://careers.sana-commerce.com/) - 🏙️ [Medellín]
-- [Snappr](https://www.snappr.com/careers) - 🇨🇴 [Nacional] / 🏙️ [Medellín]
+- [Snappr](https://www.snappr.com/careers) - 🇨🇴 [Nacional] / 🏙 [Medellín]
 - [Sonatype](https://jobs.lever.co/sonatype) - 🇨🇴 [Nacional] / 🏙️ [Medellín]
 - [Truora](https://truora.peopleforce.io/careers) - 🇨🇴 [Nacional]
 - [Tuya](https://www.linkedin.com/company/tuya-s-a/jobs/) - 🏙️ [Medellín]
@@ -67,4 +68,4 @@ Una lista curada de empresas de tecnología para programadores en Colombia
 
 [![Licencia: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-Este trabajo está licenciado bajo una [Licencia Creative Commons Atribución-NoComercial 4.0 Internacional](https://creativecommons.org/licenses/by-nc/4.0/).
+Este trabajo está licenciado bajo una [Licencia Creative Commons Atribución-NoComercial 4.0 Internacional](https://creativecommons.org/licenses/by-nc/4.0/).docs: actualizar descripción y contenido del README.md
