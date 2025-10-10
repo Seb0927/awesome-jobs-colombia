@@ -43,11 +43,29 @@ Una lista curada de empresas de tecnología para programadores en Colombia
 - [WebCreek](https://careers.webcreek.com/job-openings/) - 🇨🇴 [Nacional]
 - [Zemoga](https://www.zemoga.com/careers/) - 🏙️ [Barranquilla, Bogotá, Cali, Medellín]
 
+## Empresas
 
-## Empresas nacionales
+> Empresas fundadas en Colombia o multinacionales con oficinas locales que emplean talento tech en el país.
+
+- [Addi](https://co.addi.com/trabaja-con-nosotros) - 🇨🇴 [Nacional] - 🏙️ [Bogotá]
+- [Genius Sports](https://www.linkedin.com/jobs/genius-sports-empleos?originalSubdomain=co)
+- [Instaleap](https://instaleap.na.teamtailor.com/#jobs) - 🏙️ [Bogotá]
+- [Komet Sales](https://www.kometsales.com/pages/careers) - 🇨🇴 [Nacional] - 🏙️ [Medellín]
+- [Mercado Libre](https://careers-meli.mercadolibre.com/) - 🇨🇴 [Nacional] - 🏙️ [Bogotá, Cali, Medellín]
+- [Qrvey](https://qrvey.com/careers/) - 🇨🇴 [Nacional]
+- [Rappi](https://rappi.wd12.myworkdayjobs.com/es/Rappi_jobs?locations=35c273db87bf100033a5103c577a0000) - 🏙️ [Bogotá]
+- [Sana Commerce](https://careers.sana-commerce.com/) - 🏙️ [Medellín]
+- [Snappr](https://www.snappr.com/careers) - 🇨🇴 [Nacional] / 🏙️ [Medellín]
+- [Sonatype](https://jobs.lever.co/sonatype) - 🇨🇴 [Nacional] / 🏙️ [Medellín]
+- [Truora](https://truora.peopleforce.io/careers) - 🇨🇴 [Nacional]
+- [Tuya](https://www.linkedin.com/company/tuya-s-a/jobs/) - 🏙️ [Medellín]
+- [Twilio](https://www.twilio.com/en-us/company/jobs) - 🇨🇴 [Nacional]
+- [Zapier](https://zapier.com/jobs#job-openings) - 🇨🇴 [Nacional]
 
 ## Licencia
 
 [![Licencia: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 Este trabajo está licenciado bajo una [Licencia Creative Commons Atribución-NoComercial 4.0 Internacional](https://creativecommons.org/licenses/by-nc/4.0/).
+
+docs: add Accenture, EPAM, and GFT Technologies entries with location details
