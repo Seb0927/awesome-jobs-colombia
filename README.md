@@ -74,7 +74,3 @@ Empresas de producto y tecnología con presencia en Colombia que ofrecen oportun
 - [Tuya](https://www.linkedin.com/company/tuya-s-a/jobs/) - *(Medellín)*
 - [Twilio](https://www.twilio.com/en-us/company/jobs) - *(Colombia)*
 - [Zapier](https://zapier.com/jobs#job-openings) - *(Colombia)*
-
-## Licencia
-
-[![Licencia: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
