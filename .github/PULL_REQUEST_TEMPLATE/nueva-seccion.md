@@ -13,9 +13,9 @@ title: "Agregar sección: [NOMBRE DE LA SECCIÓN]"
 - [ ] He leído la [guía de contribución](../CONTRIBUTING.md)
 - [ ] He abierto una issue respecto a esta tarea
 - [ ] La nueva sección fue previamente aprobada en un issue
+- [ ] La nueva sección sigue el formato establecido en el resto del documento
 - [ ] He incluido al menos un ejemplo de entrada en la nueva sección
 - [ ] He actualizado la tabla de contenidos del README
-- [ ] La nueva sección sigue el formato establecido en el resto del documento
 
 ## Información adicional
 
