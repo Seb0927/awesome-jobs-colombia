@@ -1,10 +1,14 @@
 ---
-name: Remover entrada
+name: Remover empresa
 about: Solicitar la eliminación de una empresa de la lista
 title: "Remover <nombre empresa>"
 labels: ["retiro"]
 assignees: ""
 ---
+
+## Empresa a remover
+
+<!-- Especifica la empresa que requiere corrección -->
 
 ## Razón por la que debe removerse
 

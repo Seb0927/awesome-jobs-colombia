@@ -1,5 +1,5 @@
 ---
-name: Nueva entrada
+name: Nueva empresa
 about: Agregar una nueva empresa a la lista
 title: "Agregar <nombre empresa>"
 labels: ["adición"]

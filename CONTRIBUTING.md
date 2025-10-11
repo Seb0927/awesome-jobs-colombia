@@ -42,9 +42,9 @@ Por favor, asegúrate de que tu pull request cumpla con las siguientes directric
 Para mantener una mejor organización, utilizamos issues para diferentes tipos de contribuciones:
 
 - **Nueva sección**: Para proponer una nueva categoría en la lista.
-- **Nueva entrada**: Para solicitar la adición de una nueva empresa.
-- **Corregir entrada**: Para reportar errores en una entrada existente.
-- **Remover entrada**: Para solicitar la eliminación de una empresa de la lista.
+- **Nueva empresa**: Para solicitar la adición de una nueva empresa.
+- **Corregir empresa**: Para reportar errores en una empresa existente.
+- **Remover empresa**: Para solicitar la eliminación de una empresa de la lista.
 
 Cada tipo de issue tiene su propia plantilla con los campos necesarios a completar.
 
