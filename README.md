@@ -44,6 +44,7 @@ Empresas que ofrecen servicios de desarrollo de software para clientes nacionale
 - [Perficient](https://www.perficient.com/careers) - *(LATAM)*
 - [Q-Vision](https://qvisiontechnologies.com/trabaja-con-nosotros-qvision/) - *(Colombia) / (Bogotá, Cali, Medellín)*
 - [Sofka](https://oportunidades.sofka.com.co/#jobs) - *(LATAM) / (Colombia) / (Bogotá, Medellín)*
+- [Softek](https://www.softtek.com/es-co/haz-tu-carrera-en-softtek) - *(LATAM) / (Colombia) / (Bogotá)*
 - [Source Meridian](https://sourcemeridian.com/join-us/) - *(Colombia) / (Medellín)*
 - [Tata Consultancy Services](https://www.tcs.com/careers/colombia) - *(Bogotá)*
 - [TEAM International](https://www.teaminternational.com/en/careers) - *(Medellín)*
