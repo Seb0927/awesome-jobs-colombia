@@ -1,3 +1,7 @@
+---
+assignees: "Seb0927"
+---
+
 ## Cambio realizado
 
 - [] Agregar empresa
