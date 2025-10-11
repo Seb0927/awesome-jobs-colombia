@@ -70,4 +70,4 @@ Si los mantenedores solicitan cambios, no necesitas crear un nuevo PR. Simplemen
 
 El PR se actualizará automáticamente.
 
-Gracias por tu contribución para hacer más visible las oportunidades laborales para desarrolladores en Colombia
+Gracias por tu contribución para hacer más visible las oportunidades laborales para desarrolladores en Colombia 🇨🇴❤️
