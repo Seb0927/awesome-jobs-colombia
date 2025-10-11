@@ -3,7 +3,7 @@ name: Nueva empresa
 about: Agregar una nueva empresa a la lista
 title: "Agregar <nombre empresa>"
 labels: ["adición"]
-assignees: ""
+assignees: "Seb0927"
 ---
 
 ## Confirmación
