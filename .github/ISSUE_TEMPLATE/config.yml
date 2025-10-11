@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Consulta general
+    url: https://github.com/Seb0927/awesome-jobs-colombia/issues/new?labels=consulta
+    about: Si tienes preguntas generales sobre el repositorio
