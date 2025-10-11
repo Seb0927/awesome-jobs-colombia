@@ -3,7 +3,6 @@ name: Corregir empresa
 about: Reportar un error en una empresa existente
 title: "Corregir <nombre empresa>"
 labels: ["corrección"]
-assignees: "Seb0927"
 ---
 
 ## Empresa a corregir

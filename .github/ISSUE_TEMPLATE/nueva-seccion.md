@@ -3,7 +3,6 @@ name: Nueva sección
 about: Proponer una nueva sección para el repositorio
 title: "Nueva sección"
 labels: ["adición"]
-assignees: "Seb0927"
 ---
 
 ## Justificación de la nueva sección

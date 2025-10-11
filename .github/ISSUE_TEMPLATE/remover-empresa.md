@@ -3,7 +3,6 @@ name: Remover empresa
 about: Solicitar la eliminación de una empresa de la lista
 title: "Remover <nombre empresa>"
 labels: ["retiro"]
-assignees: "Seb0927"
 ---
 
 ## Empresa a remover
