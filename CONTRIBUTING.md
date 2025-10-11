@@ -6,13 +6,11 @@
 
 Por favor, asegúrate de que tu pull request cumpla con las siguientes directrices:
 
-- Agrega un enlace por cada Pull Request.
-  - Asegúrate de que el título del PR esté en formato `Agregar <nombre-empresa>`.
-  - Explica de manera concisa por qué la empresa es relevante para desarrolladores en Colombia.
+- Agrega un enlace por cada Issue/PR.
+  - Asegúrate de que el título del PR esté en formato `<Acción> <nombre-empresa>` Ej: `Agregar Globant`.
 - Agrega el enlace en el siguiente formato: `- [nombre-empresa](https://enlace.com/) - *(LATAM) / (Colombia) / (Ciudad)*`
   - El enlace debe dirigir directamente a la página introductoria de carreras/empleos de la empresa (Donde presentan beneficios, cultura, etc.). Si la empresa no tiene una página introductoria, utiliza el enlace al tablero de puestos de trabajo.
   - La descripción debe indicar dónde ofrece puestos la empresa (LATAM, Colombia, ciudades específicas).
-    - Si la empresa ofrece puestos en mas de cinco ciudades de Colombia, solamente utilizar la etiqueta `(Colombia)`
 - Para proponer una nueva sección:
   - Crea un nuevo issue utilizando la plantilla "Nueva sección".
   - Completa toda la información solicitada y espera la aprobación de la comunidad.
@@ -50,15 +48,16 @@ Cada tipo de issue tiene su propia plantilla con los campos necesarios a complet
 
 ## Proceso de Pull Request
 
-1. Primero crea un issue para discutir el cambio que deseas realizar
-2. Haz fork del repositorio
-3. Crea una rama nueva (`git checkout -b nombre-empresa`)
-4. Realiza tus cambios
-5. Ejecuta `npx awesome-lint` para verificar el formato
-6. Confirma tus cambios (`git commit -am 'agregar <nombre empresa>'`)
-7. Envía tu rama (`git push origin agregar-nueva-empresa`)
-8. Abre un Pull Request desde tu fork hacia el repositorio principal
-9. Completa todos los campos requeridos en la plantilla y referencia el issue correspondiente
+1. Primero crea un issue para mencionar el cambio que deseas realizar
+2. Asígnate como responsable (*Assignee*) del issue para dar seguimiento a la tarea.
+3. Haz fork del repositorio
+4. Crea una rama nueva (`git checkout -b nombre-empresa`)
+5. Realiza tus cambios
+6. Ejecuta `npx awesome-lint` para verificar el formato
+7. Confirma tus cambios (`git commit -am 'agregar <nombre empresa>'`)
+8. Envía tu rama (`git push origin agregar-nueva-empresa`)
+9. Abre un Pull Request desde tu fork hacia el repositorio principal
+10. Completa todos los campos requeridos en la plantilla y referencia el issue correspondiente
 
 ## Actualizar un Pull Request
 
