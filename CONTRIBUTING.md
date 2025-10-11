@@ -53,7 +53,7 @@ Cada tipo de issue tiene su propia plantilla con los campos necesarios a complet
 3. Haz fork del repositorio
 4. Crea una rama nueva (`git checkout -b nombre-empresa`)
 5. Realiza tus cambios
-6. Ejecuta `npx awesome-lint` para verificar el formato
+6. Ejecuta `npx awesome-lint README.md` para verificar el formato
 7. Confirma tus cambios (`git commit -am 'agregar <nombre empresa>'`)
 8. Envía tu rama (`git push origin agregar-nueva-empresa`)
 9. Abre un Pull Request desde tu fork hacia el repositorio principal
