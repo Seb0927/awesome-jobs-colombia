@@ -57,7 +57,8 @@ Cada tipo de issue tiene su propia plantilla con los campos necesarios a complet
 5. Ejecuta `npx awesome-lint` para verificar el formato
 6. Confirma tus cambios (`git commit -am 'agregar <nombre empresa>'`)
 7. Envía tu rama (`git push origin agregar-nueva-empresa`)
-8. Abre un Pull Request con el título `"Agregar <nombre empresa>"` y referencia el issue correspondiente
+8. Abre un Pull Request y selecciona el template apropiado:
+9. Completa todos los campos requeridos en el template y referencia el issue correspondiente
 
 ## Actualizar un Pull Request
 
