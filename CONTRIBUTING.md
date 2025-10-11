@@ -50,15 +50,15 @@ Cada tipo de issue tiene su propia plantilla con los campos necesarios a complet
 
 ## Proceso de Pull Request
 
-1. Si corresponde, primero crea un issue para discutir el cambio que deseas realizar
+1. Primero crea un issue para discutir el cambio que deseas realizar
 2. Haz fork del repositorio
 3. Crea una rama nueva (`git checkout -b nombre-empresa`)
 4. Realiza tus cambios
 5. Ejecuta `npx awesome-lint` para verificar el formato
 6. Confirma tus cambios (`git commit -am 'agregar <nombre empresa>'`)
 7. Envía tu rama (`git push origin agregar-nueva-empresa`)
-8. Abre un Pull Request y selecciona el template apropiado:
-9. Completa todos los campos requeridos en el template y referencia el issue correspondiente
+8. Abre un Pull Request desde tu fork hacia el repositorio principal
+9. Completa todos los campos requeridos en la plantilla y referencia el issue correspondiente
 
 ## Actualizar un Pull Request
 
