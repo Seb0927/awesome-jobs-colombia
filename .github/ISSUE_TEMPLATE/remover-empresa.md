@@ -12,7 +12,7 @@ assignees: "Seb0927"
 
 ## Razón por la que debe removerse
 
-<!-- Por favor, explica detalladamente por qué crees que esta empresa debería ser eliminada de la lista -->
+<!-- Por favor, explica por qué crees que esta empresa debería ser eliminada de la lista -->
 
 <!-- Algunas razones pueden ser: -->
 <!-- - La empresa ya no existe -->
