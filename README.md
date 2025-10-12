@@ -39,6 +39,7 @@ Empresas que ofrecen servicios de desarrollo de software para clientes nacionale
 - [LeanTech](https://www.leantechjobs.io) - *(LATAM) / (Colombia) / (Medellín)*
 - [MAS Global Consulting](https://masglobalconsulting.applytojob.com/) - *(LATAM) / (Colombia) / (Medellín)*
 - [Melt Studio](https://www.meltstudio.co/jobs) - *(Medellín)*
+- [MPS Group LLC](https://www.linkedin.com/company/mps-group-llc/jobs/) - *(Medellín)*
 - [Neostella](https://www.neostella.com/about/careers/) - *(Medellín)*
 - [Pragma](https://www.pragma.co/es/carrera/vacantes/) - *(LATAM) / (Colombia) / (Bogotá, Cali, Medellín)*
 - [Perficient](https://www.perficient.com/careers) - *(LATAM)*
