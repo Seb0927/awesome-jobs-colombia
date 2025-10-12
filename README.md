@@ -40,10 +40,10 @@ Empresas que ofrecen servicios de desarrollo de software para clientes nacionale
 - [MAS Global Consulting](https://masglobalconsulting.applytojob.com/) - *(LATAM) / (Colombia) / (Medellín)*
 - [Melt Studio](https://www.meltstudio.co/jobs) - *(Medellín)*
 - [Neostella](https://www.neostella.com/about/careers/) - *(Medellín)*
-- [Qubika](https://qubika.com/careers/) - *(LATAM) / (Cali)*
 - [Pragma](https://www.pragma.co/es/carrera/vacantes/) - *(LATAM) / (Colombia) / (Bogotá, Cali, Medellín)*
 - [Perficient](https://www.perficient.com/careers) - *(LATAM)*
 - [Q-Vision](https://qvisiontechnologies.com/trabaja-con-nosotros-qvision/) - *(Colombia) / (Bogotá, Cali, Medellín)*
+- [Qubika](https://qubika.com/careers/) - *(LATAM) / (Cali)*
 - [Sofka](https://oportunidades.sofka.com.co/#jobs) - *(LATAM) / (Colombia) / (Bogotá, Medellín)*
 - [Softek](https://www.softtek.com/es-co/haz-tu-carrera-en-softtek) - *(LATAM) / (Colombia) / (Bogotá)*
 - [Source Meridian](https://sourcemeridian.com/join-us/) - *(Colombia) / (Medellín)*
