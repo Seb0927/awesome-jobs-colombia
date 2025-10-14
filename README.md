@@ -47,6 +47,7 @@ Empresas que ofrecen servicios de desarrollo de software para clientes nacionale
 - [Qubika](https://qubika.com/careers/) - *(LATAM) / (Cali)*
 - [Sofka](https://oportunidades.sofka.com.co/#jobs) - *(LATAM) / (Colombia) / (Bogotá, Medellín)*
 - [Softek](https://www.softtek.com/es-co/haz-tu-carrera-en-softtek) - *(LATAM) / (Colombia) / (Bogotá)*
+- [SoftServe](https://career.softserveinc.com/es/vacancies/country-colombia) - *(Colombia) / (Bogotá, Medellín)*
 - [Source Meridian](https://sourcemeridian.com/join-us/) - *(Colombia) / (Medellín)*
 - [Tata Consultancy Services](https://www.tcs.com/careers/colombia) - *(Bogotá)*
 - [TEAM International](https://www.teaminternational.com/en/careers) - *(Medellín)*
