@@ -22,7 +22,7 @@ Empresas que ofrecen servicios de desarrollo de software para clientes nacionale
 - [10Pearls](https://10pearls.com/latin-america-job-openings/) - *(LATAM)*
 - [Accenture](https://www.accenture.com/co-es/careers/jobsearch) - *(Colombia) / (Barranquilla, Bogotá, Medellín)*
 - [Aseneg](https://www.aseneg.com/ofertas-laborales) - *(Bogotá)*
-- [BlankFactor](https://blankfactor.com/careers/) - *(Colombia) - (Medellín)*
+- [BlankFactor](https://blankfactor.com/careers/) - *(Colombia) / (Medellín)*
 - [Cafeto Software](https://people.cafeto.co/jobs_preview) - *(Colombia) / (Cali)*
 - [Endava](https://www.endava.com/careers/jobs) - *(Bogotá, Cali, Medellín)*
 - [EPAM](https://www.epam.com/careers) - *(Colombia) / (Bogotá, Medellín)*
@@ -46,6 +46,7 @@ Empresas que ofrecen servicios de desarrollo de software para clientes nacionale
 - [Perficient](https://www.perficient.com/careers) - *(LATAM)*
 - [Q-Vision](https://qvisiontechnologies.com/trabaja-con-nosotros-qvision/) - *(Colombia) / (Bogotá, Cali, Medellín)*
 - [Qubika](https://qubika.com/careers/) - *(LATAM) / (Cali)*
+- [Rockwell Automation](https://www.rockwellautomation.com/es-co/careers.html) - *(Bogotá, Medellín)*
 - [Sofka](https://oportunidades.sofka.com.co/#jobs) - *(LATAM) / (Colombia) / (Bogotá, Medellín)*
 - [Softek](https://www.softtek.com/es-co/haz-tu-carrera-en-softtek) - *(LATAM) / (Colombia) / (Bogotá)*
 - [SoftServe](https://career.softserveinc.com/es/vacancies/country-colombia) - *(Colombia) / (Bogotá, Medellín)*
