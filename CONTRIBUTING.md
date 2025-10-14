@@ -49,7 +49,7 @@ Por favor, asegúrate de que tu pull request cumpla con las siguientes directric
 ## Pasos para realizar un cambio en la lista
 
 > [!NOTE]
-> **Nota:** Si solo creas una issue, podremos revisar y aplicar el cambio. Sin embargo, agradeceremos mucho si también envías un Pull Request, ya que agiliza el cambio propuesto y mejora la colaboración en este proyecto.
+> Si solo creas una issue, podremos revisar y aplicar el cambio. Sin embargo, agradeceremos mucho si también envías un Pull Request, ya que agiliza el cambio propuesto y mejora la colaboración en este proyecto.
 
 1. Haz fork del repositorio
 2. Crea una rama nueva (`git checkout -b nombre-empresa`)
