@@ -7,7 +7,7 @@
 
 ## Issue relacionado
 
-<!-- Referencia el issue relacionado (#número-del-issue) -->
+Resolves #<número-del-issue> <!-- Referencia el issue relacionado (#número-del-issue) -->
 
 ## Checklist
 
