@@ -80,8 +80,8 @@ Empresas de producto y tecnología con presencia en Colombia que ofrecen oportun
 
 ## Contribuciones
 
-Te agradecemos de antemano si deseas colaborar en esta lista añadiendo una nueva empresa o sugiriendo cambios, todas las contribuciones son bienvenidas 🇨🇴❤️
+Te agradecemos de antemano si deseas colaborar en esta lista añadiendo una nueva empresa o sugiriendo cambios, todas las contribuciones son bienvenidas 
 
-Por favor, lee la [guía de contribución](CONTRIBUTING.md) antes de abrir un pull request. Si deseas proponer una nueva sección, agregar una empresa, corregir información o solicitar la eliminación de alguna empresa, utiliza las plantillas disponibles en la sección de [Issues](https://github.com/Seb0927/awesome-jobs-colombia/issues/new/choose).
+Por favor, lee la [guía de contribución](CONTRIBUTING.md) para proponer un cambio. Si deseas proponer una nueva sección, agregar una empresa, corregir información o solicitar la eliminación de alguna empresa, utiliza las plantillas disponibles en la sección de [Issues](https://github.com/Seb0927/awesome-jobs-colombia/issues/new/choose).
 
-¡Gracias por ayudar a hacer más visibles las oportunidades laborales para desarrolladores en Colombia!
+Gracias por ayudar a mantener esta lista actualizada y accesible para la comunidad 🇨🇴❤️
