@@ -79,6 +79,7 @@ Empresas de producto y tecnología con presencia en Colombia que ofrecen oportun
 - [Truora](https://truora.peopleforce.io/careers) - *(Colombia)*
 - [Tuya](https://www.linkedin.com/company/tuya-s-a/jobs/) - *(Medellín)*
 - [Twilio](https://www.twilio.com/en-us/company/jobs) - *(Colombia)*
+- [Yuno](https://y.uno/es/careers) - *(Colombia) / (Bogotá)*
 - [Zapier](https://zapier.com/jobs#job-openings) - *(Colombia)*
 
 ## Contribuciones
