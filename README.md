@@ -35,6 +35,7 @@ Empresas que ofrecen servicios de desarrollo de software para clientes nacionale
 - [Grupo Cinte](https://www.linkedin.com/company/cintecolombia/jobs/) - *(Bogotá)*
 - [Huge](https://www.hugeinc.com/careers/) - *(Colombia)*
 - [Ideaware](https://ideaware.co/careers/) - *(Colombia)*
+- [Intellias](https://career.intellias.com/vacancies/) - *(LATAM) / (Colombia) / (Bogotá)*
 - [Keyrus](https://jobs.keyrus.com/jobs) - *(Colombia) / (Bogotá, Medellín)*
 - [Koombea](https://www.koombea.com/careers/) - *(Colombia)*
 - [LeanTech](https://www.leantechjobs.io) - *(LATAM) / (Colombia) / (Medellín)*
