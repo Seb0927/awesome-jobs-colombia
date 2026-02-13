@@ -38,7 +38,7 @@ Empresas que ofrecen servicios de desarrollo de software para clientes nacionale
 - [Intellias](https://career.intellias.com/vacancies/) - *(LATAM) / (Colombia) / (Bogotá)*
 - [Keyrus](https://jobs.keyrus.com/jobs) - *(Colombia) / (Bogotá, Medellín)*
 - [Koombea](https://www.koombea.com/careers/) - *(Colombia)*
-- [LeanTech](https://www.leantechjobs.io) - *(LATAM) / (Colombia) / (Medellín)*
+- [LeanTech](https://jobs.jobvite.com/careers/leantechio/) - *(LATAM) / (Colombia) / (Medellín)*
 - [MAS Global Consulting](https://masglobalconsulting.applytojob.com/) - *(LATAM) / (Colombia) / (Medellín)*
 - [Melt Studio](https://www.meltstudio.co/jobs) - *(Medellín)*
 - [MPS Group LLC](https://www.linkedin.com/company/mps-group-llc/jobs/) - *(Medellín)*
