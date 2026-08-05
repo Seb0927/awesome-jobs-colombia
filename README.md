@@ -69,7 +69,7 @@ Empresas de producto y tecnología con presencia en Colombia que ofrecen oportun
 > - *`(Colombia)`*: La empresa ofrece posiciones remotas y/o posiciones en mas de cinco ciudades de Colombia
 > - *`(<Ciudad>)`*: La empresa ofrece oportunidades laborales para una ciudad determinada
 
-- [Addi](https://co.addi.com/trabaja-con-nosotros) - *(Colombia) - (Bogotá)*
+- [Addi](https://co.addi.com/trabaja-con-nosotros) - *(Colombia) / (Bogotá)*
 - [Ansira](https://ansira.com/about/careers/) - *(Colombia)*
 - [Genius Sports](https://www.linkedin.com/jobs/genius-sports-empleos?originalSubdomain=co) - *(Colombia)*
 - [Instaleap](https://instaleap.na.teamtailor.com/#jobs) - *(Bogotá)*
