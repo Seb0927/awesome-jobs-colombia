@@ -55,6 +55,7 @@ Empresas que ofrecen servicios de desarrollo de software para clientes nacionale
 - [Source Meridian](https://sourcemeridian.com/careers) - *(Colombia) / (Medellín)*
 - [Tata Consultancy Services](https://www.tcs.com/careers/colombia) - *(Bogotá)*
 - [TEAM International](https://www.teaminternational.com/en/careers) - *(Medellín)*
+- [Unosquare](https://people.unosquare.com/jobs) - *(LATAM) / (Colombia) / (Bogotá, Medellín)*
 - [Unisys](https://www.unisys.com/careers/) - *(Bogotá, Medellín)*
 - [WebCreek](https://careers.webcreek.com/job-openings/) - *(Colombia)*
 - [Zemoga](https://www.zemoga.com/careers/) - *(Barranquilla, Bogotá, Cali, Medellín)*
