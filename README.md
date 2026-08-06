@@ -61,7 +61,7 @@ Empresas que ofrecen servicios de desarrollo de software para clientes nacionale
 - [WebCreek](https://careers.webcreek.com/job-openings/) - *(Colombia)*
 - [Zemoga](https://www.zemoga.com/careers/) - *(Barranquilla, Bogotá, Cali, Medellín)*
 
-## Empresas
+## Empresas nacionales
 
 Empresas de producto y tecnología con presencia en Colombia que ofrecen oportunidades para desarrolladores.
 
