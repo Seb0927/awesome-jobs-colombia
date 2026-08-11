@@ -23,6 +23,7 @@ Empresas que ofrecen servicios de desarrollo de software para clientes nacionale
 - [Accenture](https://www.accenture.com/co-es/careers/jobsearch) - *(Colombia) / (Barranquilla, Bogotá, Medellín)*
 - [Aseneg](https://www.aseneg.com/ofertas-laborales) - *(Bogotá)*
 - [BlankFactor](https://blankfactor.com/careers/) - *(Colombia) / (Medellín)*
+- [Bluetab](https://jobs-bluetab.na.teamtailor.com/jobs) - *(LATAM) / (Colombia) / (Bogotá)*
 - [Cafeto Software](https://people.cafeto.co/jobs_preview) - *(Colombia) / (Cali)*
 - [Endava](https://www.endava.com/careers/jobs) - *(Bogotá, Cali, Medellín)*
 - [EPAM](https://www.epam.com/careers) - *(Colombia) / (Bogotá, Medellín)*
