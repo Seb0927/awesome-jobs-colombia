@@ -2,6 +2,8 @@
 
 Una lista curada de empresas que ofrecen oportunidades laborales para desarrolladores en Colombia.
 
+También puedes verla en su versión web: [awesome-jobs-colombia](https://seb0927.github.io/awesome-jobs-colombia/) 🌐
+
 ## Contenido
 
 <!-- Explicación: El título debería ser "Contents" para ser ignorado por la herramienta awesome-lint, pero debido a que esta es una lista en español se ignora manualmente -->

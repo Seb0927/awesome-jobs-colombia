@@ -1,0 +1,164 @@
+---
+import "../styles/global.css";
+import { getCompanies, getCities } from "../lib/companies";
+import TrashIcon from "../assets/trash.svg";
+
+const companies = getCompanies();
+const sections = ["Nearshores / Outsourcing", "Empresas nacionales"];
+const locations = ["LATAM", "Colombia"];
+const cities = getCities(companies);
+
+const NON_CITIES = ["LATAM", "Colombia"];
+
+const BADGE_CLASSES = {
+  LATAM: "bg-violet-100 border-violet-200 text-violet-700",
+  Colombia: "bg-cyan-100 border-cyan-200 text-cyan-700",
+  city: "bg-amber-100 border-amber-200 text-amber-700",
+} as const;
+
+  function badgeClasses(tag: string): string {
+    if (NON_CITIES.includes(tag)) return BADGE_CLASSES[tag as "LATAM" | "Colombia"];
+    return BADGE_CLASSES.city;
+  }
+---
+
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Awesome Jobs Colombia</title>
+    <meta
+      name="description"
+      content="Una lista curada de empresas que ofrecen oportunidades laborales para desarrolladores en Colombia."
+    />
+  </head>
+  <body class="mx-auto max-w-3xl px-4 py-12 text-gray-900">
+    <header>
+      <h1 class="text-3xl font-bold">Awesome Jobs Colombia <span aria-hidden="true">🇨🇴</span></h1>
+      <p class="mt-2 text-gray-600">
+        Una lista curada de empresas que ofrecen oportunidades laborales para desarrolladores en
+        Colombia. Contribuciones en el
+        <a class="underline hover:text-gray-900" href="https://github.com/Seb0927/awesome-jobs-colombia"
+          >repositorio</a
+        >.
+      </p>
+    </header>
+
+    <div class="mt-8 flex flex-wrap items-center gap-4">
+      <label class="flex items-center gap-2 text-sm">
+        Ubicación
+        <select id="filter-location" class="rounded-lg border border-gray-300 px-2 py-1 text-sm">
+          <option value="">Todas</option>
+          {locations.map((loc) => <option value={loc}>{loc}</option>)}
+        </select>
+      </label>
+      <label class="flex items-center gap-2 text-sm">
+        Ciudad
+        <select id="filter-city" class="rounded-lg border border-gray-300 px-2 py-1 text-sm">
+          <option value="">Todas</option>
+          {cities.map((city) => <option value={city}>{city}</option>)}
+        </select>
+      </label>
+      <span id="count" class="text-sm text-gray-600"></span>
+      <button
+        id="reset"
+        class="ml-auto flex items-center gap-1.5 rounded border border-red-200 bg-red-50 px-2.5 py-1 text-sm font-medium text-red-600 hover:bg-red-100"
+      >
+        <TrashIcon class="h-4 w-4" />
+        Limpiar filtros
+      </button>
+    </div>
+
+    <p id="empty" class="mt-8 hidden text-sm text-gray-600">
+      No hay empresas que coincidan con los filtros seleccionados.
+    </p>
+
+    {sections.map((section) => (
+      <section data-section>
+        <h2 class="mt-8 border-b border-gray-200 pb-2 text-xl font-semibold">{section}</h2>
+        <ul class="divide-y divide-gray-200">
+          {companies
+            .filter((company) => company.section === section)
+            .map((company) => (
+              <li
+                class="company flex flex-wrap items-baseline justify-between gap-2 py-3"
+                data-section-name={section}
+                data-tags={company.all.join(" ")}
+              >
+                <a class="font-medium underline underline-offset-2" href={company.url} target="_blank" rel="noopener noreferrer">
+                  {company.name}
+                </a>
+                <span class="flex flex-wrap gap-1">
+                  {company.all.map((tag) => (
+                    <span
+                      class={`rounded-full border px-2.5 py-0.5 text-xs font-medium ${badgeClasses(tag)}`}
+                    >
+                      {tag}
+                    </span>
+                  ))}
+                </span>
+              </li>
+            ))}
+        </ul>
+      </section>
+    ))}
+
+    <script>
+      const locationSelect = document.getElementById("filter-location") as HTMLSelectElement;
+      const citySelect = document.getElementById("filter-city") as HTMLSelectElement;
+      const resetButton = document.getElementById("reset") as HTMLButtonElement;
+      const empty = document.getElementById("empty") as HTMLParagraphElement;
+      const count = document.getElementById("count") as HTMLSpanElement;
+      const items = Array.from(document.querySelectorAll<HTMLElement>(".company"));
+      const sections = Array.from(document.querySelectorAll<HTMLElement>("[data-section]"));
+
+      const NON_CITIES = ["LATAM", "Colombia"];
+
+      function update() {
+        const location = locationSelect.value;
+        const city = citySelect.value;
+
+        let visible = 0;
+        for (const item of items) {
+          const tags = item.dataset.tags?.split(" ") ?? [];
+          const show =
+            (!location || tags.includes(location)) && (!city || tags.includes(city));
+          item.classList.toggle("hidden", !show);
+          if (show) visible++;
+        }
+
+        for (const section of sections) {
+          const anyVisible = section.querySelectorAll<HTMLElement>(".company:not(.hidden)").length > 0;
+          section.classList.toggle("hidden", !anyVisible);
+        }
+
+        count.textContent = `${visible} de ${items.length} empresas`;
+        empty.classList.toggle("hidden", visible > 0);
+        resetButton.classList.toggle("hidden", !location && !city);
+
+        const params = new URLSearchParams();
+        if (location) params.set("location", location);
+        if (city) params.set("city", city);
+        const query = params.toString();
+        history.replaceState(
+          null,
+          "",
+          query ? `${window.location.pathname}?${query}` : window.location.pathname
+        );
+      }
+
+      locationSelect.addEventListener("change", update);
+      citySelect.addEventListener("change", update);
+      resetButton.addEventListener("click", () => {
+        locationSelect.value = "";
+        citySelect.value = "";
+        update();
+      });
+
+      const params = new URLSearchParams(window.location.search);
+      if (params.has("location")) locationSelect.value = params.get("location") ?? "";
+      if (params.has("city")) citySelect.value = params.get("city") ?? "";
+      update();
+    </script>
+  </body>
+</html>
