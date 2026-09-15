@@ -15,8 +15,8 @@ Una lista curada de empresas que ofrecen oportunidades laborales para desarrolla
 Empresas que ofrecen servicios de desarrollo de software para clientes nacionales y/o internacionales desde Colombia
 
 > [!NOTE]
-> - *`(LATAM)`*: La empresa ofrece posiciones remotas para desarrolladores en lationamérica
-> - *`(Colombia)`*: La empresa ofrece posiciones remotas y/o posiciones en mas de cinco ciudades de Colombia
+> - *`(LATAM)`*: La empresa ofrece posiciones remotas para desarrolladores en latinoamérica
+> - *`(Colombia)`*: La empresa ofrece posiciones remotas y/o posiciones en más de cinco ciudades de Colombia
 > - *`(<Ciudad>)`*: La empresa ofrece oportunidades laborales para una ciudad determinada
 
 - [10Pearls](https://10pearls.com/latin-america-job-openings/) - *(LATAM)*
