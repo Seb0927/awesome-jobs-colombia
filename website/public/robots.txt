@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seb0927.github.io/awesome-jobs-colombia/sitemap-index.xml
