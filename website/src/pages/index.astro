@@ -2,6 +2,7 @@
 import "../styles/global.css";
 import { getCompanies, getCities } from "../lib/companies";
 import TrashIcon from "../assets/trash.svg";
+import ChevronDownIcon from "../assets/chevron-down.svg";
 
 const companies = getCompanies();
 const sections = ["Nearshores / Outsourcing", "Empresas nacionales"];
@@ -82,6 +83,57 @@ function badgeClasses(tag: string): string {
         Limpiar filtros
       </button>
     </div>
+
+    <details
+      class="group mt-6 rounded-lg border border-gray-300 bg-gray-50 text-sm text-gray-600"
+    >
+      <summary
+        class="flex cursor-pointer select-none items-center justify-between px-4 py-3 text-sm font-bold hover:text-gray-900 [&::-webkit-details-marker]:hidden"
+      >
+        ¿Qué significan las etiquetas?
+        <ChevronDownIcon
+          class="h-4 w-4 shrink-0 transition-transform duration-200 group-open:rotate-180"
+        />
+      </summary>
+      <div class="px-4 pb-4">
+        <ul class="list-disc space-y-1 pl-5">
+        <li>
+          <div class="flex items-center">
+            <span
+              class={`mr-3 inline-block w-24 shrink-0 text-center rounded-full border px-2.5 py-0.5 text-xs font-medium ${badgeClasses("LATAM")}`}
+              >LATAM</span
+            >
+            <span>
+              La empresa ofrece posiciones remotas para desarrolladores en lationamérica
+            </span>
+          </div>
+        </li>
+        <li>
+          <div class="flex items-center">
+            <span
+              class={`mr-3 inline-block w-24 shrink-0 text-center rounded-full border px-2.5 py-0.5 text-xs font-medium ${badgeClasses("Colombia")}`}
+              >Colombia</span
+            >
+            <span>
+              La empresa ofrece posiciones remotas y/o posiciones en mas de cinco ciudades de
+              Colombia
+            </span>
+          </div>
+        </li>
+        <li>
+          <div class="flex items-center">
+            <span
+              class={`mr-3 inline-block w-24 shrink-0 text-center rounded-full border border-amber-200 bg-amber-100 px-2.5 py-0.5 text-xs font-medium text-amber-700`}
+              >&lt;Ciudad&gt;</span
+            >
+            <span>
+              La empresa ofrece oportunidades laborales para una ciudad determinada
+            </span>
+          </div>
+        </li>
+        </ul>
+      </div>
+    </details>
 
     <p id="empty" class="mt-8 hidden text-sm text-gray-600">
       No hay empresas que coincidan con los filtros seleccionados.
